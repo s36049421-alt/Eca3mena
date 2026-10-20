@@ -1,0 +1,7 @@
+GESTIÓN DE CAMPO — paquete PWA
+
+Sube el contenido de este ZIP al proyecto Tiiny Host como sitio estático. La raíz publicada debe contener index.html, manifest.webmanifest, sw.js e icons/.
+
+IMPORTANTE: no publiques sobre el proyecto actual hasta respaldarlo y confirmar que deseas reemplazar los archivos publicados. Mantener el mismo dominio y origen ayuda a conservar IndexedDB; cambiar de dominio no transfiere los datos locales.
+
+La PWA requiere HTTPS. Después de publicar, abre la URL en Chrome, espera a que cargue y usa el menú > Instalar aplicación / Añadir a pantalla de inicio. Prueba también con conexión desactivada antes de depender del modo sin conexión.
